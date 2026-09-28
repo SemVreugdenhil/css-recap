@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 /* ========================================
    VARIABELEN
 ======================================== */
@@ -23,4 +24,21 @@ h1,
 h2,
 p {
   margin: 0;
+=======
+:root{
+    --acid-lime: #C8FF00;
+    --void-black: #080808;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+}
+
+h1{
+    color: var(--acid-lime);
+>>>>>>> Stashed changes
 }
